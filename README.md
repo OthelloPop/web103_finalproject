@@ -1,4 +1,4 @@
-# [your app name here]
+# Movie App
 
 CodePath WEB103 Final Project
 
@@ -10,35 +10,35 @@ Designed and developed by: Allison Scurry and Chelsea Heredia
 
 ### Description and Purpose
 
-[text goes here]
+This application helps users find new and interesting movies and TV shows on the streaming service on their choice. 
 
 ### Inspiration
 
-[text goes here]
+Solves the common issue that viewers face when deciding on what to watch.
 
 ## Tech Stack
 
-Frontend:
+Frontend: React, Javascript, CSS
 
-Backend:
+Backend: Railway, NodeJS
 
 ## Features
 
-### [Name of Feature 1]
+### Homepage
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+The user arrives at a homepage where that are general movies and TV shows displayed.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Complex Search and Filter feature. 
 
-[short description goes here]
+This feature enables users to filter view based on name, genre, streaming service, and cost.
+
+[gif goes here]
+
+### Profile 
+
+Users can view saved movies, search history, and general account information on their profile.
 
 [gif goes here]
 
