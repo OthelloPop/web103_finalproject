@@ -42,6 +42,18 @@ Users can view saved movies, search history, and general account information on 
 
 [gif goes here]
 
+### Add Movie or TV Show
+
+Admins can add new movies and TV shows to the movie database.
+
+### Edit Movie or TV Show
+
+Admins can edit information about existing movies and TV shows.
+
+### Delete Movie or TV Show
+
+Admins can delete items from the database.
+
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
 ## Installation Instructions
