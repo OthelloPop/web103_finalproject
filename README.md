@@ -1,4 +1,4 @@
-# Movie App
+# Movie Apps
 
 CodePath WEB103 Final Project
 
