@@ -4,18 +4,27 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+⭐Home
+Explore
+⭐Collections
+Max
+Netflix
+Hulu
+Disney+
+⭐View Movie
+Edit/Create Collection
 
-## Wireframe 1: [page title]
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+## Wireframe 1: Home
 
-## Wireframe 2: [page title]
+![Home Page](./Home.jpg)
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+## Wireframe 2: Collections
 
-## Wireframe 3: [page title]
+![Collections Page](./Collections.jpg)
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+## Wireframe 3: View Movie
+
+![View Movie Page](./ViewMovie.jpg)
 
 [👉🏾👉🏾👉🏾 include more wireframes as desired]
