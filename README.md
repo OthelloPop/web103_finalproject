@@ -30,7 +30,9 @@ The user arrives at a homepage where that are general movies and TV shows displa
 
 [gif goes here]
 
-### Homepage - No movies found when db is not connected
+###  ✅ Homepage - No movies found when DB is not connected
+The user arrives at a homepage where message indicates that movies are unavailable at this time.
+
 
 
 ### Complex Search and Filter feature. 
