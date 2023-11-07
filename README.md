@@ -24,11 +24,14 @@ Backend: Railway, NodeJS
 
 ## Features
 
-### Homepage
+### Homepage - Fetches movies from database
 
 The user arrives at a homepage where that are general movies and TV shows displayed.
 
 [gif goes here]
+
+### Homepage - No movies found when db is not connected
+
 
 ### Complex Search and Filter feature. 
 
