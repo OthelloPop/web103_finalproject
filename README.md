@@ -33,7 +33,7 @@ The user arrives at a homepage where that are general movies and TV shows displa
 ###  ✅ Homepage - No movies found when DB is not connected
 The user arrives at a homepage where message indicates that movies are unavailable at this time.
 
-
+![](https://github.com/OthelloPop/web103_finalproject/blob/main/gifs/Feature1_NoMoviesHome.gif)
 
 ### Complex Search and Filter feature. 
 
